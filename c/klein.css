@@ -1,0 +1,17 @@
+hgroup h1,
+hgroup h2 {
+  margin-bottom: 0px;
+}
+
+header {
+  justify-content: flex-start;
+}
+
+nav {
+  margin-left: 25px;
+  margin-bottom: 7px;
+}
+
+nav ul {
+  justify-content: flex-start;
+}

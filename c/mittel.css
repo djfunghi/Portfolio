@@ -1,0 +1,19 @@
+.wichtig {
+  grid-column: span 1;
+}
+
+#naviB {
+  display: block;
+  border: none;
+  background: none;
+  font-size: 300%;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+  color: white;
+}
+
+nav ul {
+  flex-direction: column;
+}
